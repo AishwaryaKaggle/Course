@@ -15,5 +15,6 @@ From this Module
 2.Version Controlling
 3.git push,clone,commit,revert,reset commands
 4.Also looked into branch command
+5.Also learnt effectively of pushing the repo to git by configuring user.name and password.
 
 
